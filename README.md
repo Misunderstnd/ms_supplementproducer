@@ -8,7 +8,7 @@ inventory items:
 
 you need to add images yourself.
 
-how to start script 
+✅how to start script✅
 1. drop it in your resources folder
 2. configure script in config.lua
 3. add "ensure ms_supplementproducer" into your server cfg
